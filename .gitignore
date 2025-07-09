@@ -1,0 +1,33 @@
+# Flutter/Dart dosyaları
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+android/local.properties
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+macos/Pods/
+macos/Flutter/ephemeral/
+*.iml
+
+# VS Code
+.vscode/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Genel
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Android Studio cache
+.gradle/
+*.gradle
